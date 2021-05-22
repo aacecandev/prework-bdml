@@ -27,4 +27,4 @@ En las secciones `Python Basics` y `Algebra Basics` revisaremos la parte teóric
 
 ## Entregables
 
-Para el cumplimiento del prework, debes acceder a los 3 documentos de `Google Collab` que se te ha compartido por correo. Completa los ejercicios y ¡no te olvides de guardar! Una vez terminado, accederemos a esos documentos para evaluar vuestro trabajo. No olvides revisar el plazo para la entrega del prework.
+Para el cumplimiento del prework, debes acceder a los 2 documentos de `Google Collab` que se te ha compartido por correo. Completa los ejercicios y ¡no te olvides de guardar! Una vez terminado, accederemos a esos documentos para evaluar vuestro trabajo. No olvides revisar el plazo para la entrega del prework.
