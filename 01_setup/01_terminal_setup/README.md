@@ -226,6 +226,13 @@ Cuando ejecutes el programa por la primera vez, se completará la instalación y
 
 > A partir de ese momento, cuando nos refiramos a la terminal estaremos hablando de la terminal de ubuntu.
 
+Aprovechamos ese momento para actualizar el gestor de paquetes y programas con los 2 siguientes comandos en la terminal que acabamos de instalar:
+
+```shell
+sudo apt-get update
+sudo apt-get upgrade
+```
+
 ### Git
 
 Necesitamos asegurarnos que el gestor de versiones [git](https://git-scm.com/) también está instalado. Lo verificamos con el siguiente comando en la terminal:
