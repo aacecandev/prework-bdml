@@ -1,9 +1,4 @@
----
-title: Welcome
-description: Instrucciones para el Prework
----
-
-# Prework
+# Big Data & Machine Learning Prework
 
 ![](https://api-cabled.app.faable.com/screenshot?url=https://core-brand-cards.app.faable.com/?title=BDML%20Prework)
 
